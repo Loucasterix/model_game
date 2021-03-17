@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6caa46-d011-4f29-9988-e64d77260e6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/#1_Valentina_Alex-3D-Puzzle/scenes/Scenes/Tricky-3D-Puzzle.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#1_Valentina_Alex-3D-Puzzle/scenes/Scenes/Tricky-3D-Puzzle.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/#7_Lukas_Lin/Game/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/#7_Lukas_Lin/Game/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Materials/Skybox_Mat.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Materials/Skybox_Mat.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scripts/SimpleCameraController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3_Corinna_Marie/Scripts/SimpleCameraController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Armaghan-and-Janina/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Armaghan-and-Janina/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Documentation - free sample.pdf 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Documentation - free sample.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Documentation - free sample.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Flat Colors 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Flat Colors.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Flat Colors.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Ground_01.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Ground_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Ground_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Palm_tree_01.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Palm_tree_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Palm_tree_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Plant_02.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Plant_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Plant_02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Rock_01.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Rock_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Rock_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Tree_02.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Tree_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Tree_02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Well_01.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Well_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/FBX Files/Mixed Colors/Mixed_Well_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Fuggoo.fbx 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Fuggoo.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Fuggoo.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Color 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Color 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Color.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Color.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Color.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Desert Sand 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Desert Sand 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Desert Sand.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Desert Sand.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Base Desert Sand.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Basic.shader 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Basic.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Basic.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Unlit.shader 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Unlit.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Shaders/Vertex_Color_Unlit.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Colors.png 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Colors.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Colors.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Desert Sand.png 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Desert Sand.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Desert Sand.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 1 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 1 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 1.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 2.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 2.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors 4.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Colors.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 1 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 1 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 1.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Texture/Materials/Desert Sand.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color Unlit 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color Unlit 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color Unlit.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color Unlit.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color Unlit.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Materials/Vertex Color.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Flat_Bone_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Flat_Bone_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Flat_Bone_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Mixed_Bone_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Mixed_Bone_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Bones/Mixed_Bone_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Flat_Well_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Flat_Well_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Flat_Well_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Mixed_Well_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Mixed_Well_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Constructions/Mixed_Well_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Cactus_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Plant_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Plant_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Flat_Plant_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Cactus_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Plant_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Plant_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Plants/Mixed_Plant_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Flat_Rock_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Flat_Rock_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Flat_Rock_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Mixed_Rock_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Mixed_Rock_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Rocks/Mixed_Rock_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Flat_Ground_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Flat_Ground_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Flat_Ground_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Mixed_Ground_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Mixed_Ground_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Terrain/Mixed_Ground_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Palm_tree_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Palm_tree_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Palm_tree_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Tree_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Tree_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Flat_Tree_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Palm_tree_01.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Palm_tree_01.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Palm_tree_01.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Tree_02.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Tree_02.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Free Low Poly Desert Pack/Unity Prefabs/Trees/Mixed_Tree_02.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/Skybox_Mat.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/Skybox_Mat.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/Skybox_Mat.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/material1 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/material1 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/material1.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/material1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Materials/material1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioCompressedInMemory.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioCompressedInMemory.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioCompressedInMemory.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioStreaming.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioStreaming.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/AudioStreaming.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AlbedoTexture_Default.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AlbedoTexture_Default.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AlbedoTexture_Default.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AudioDecompressOnLoad.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AudioDecompressOnLoad.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/AudioDecompressOnLoad.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/DirectionalLight_Default.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/DirectionalLight_Default.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/Defaults/DirectionalLight_Default.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/NormalTexture.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/NormalTexture.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/NormalTexture.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/UtilityTexture.preset 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/UtilityTexture.preset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Presets/UtilityTexture.preset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/Desert.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/Desert.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/Desert.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/SampleScene.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/FuggooController.cs 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/FuggooController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/FuggooController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/MainCameraController.cs 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/MainCameraController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/MainCameraController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/SimpleCameraController.cs 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/SimpleCameraController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/Scripts/SimpleCameraController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedFluffball 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedFluffball 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedFluffball.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedFluffball.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedFluffball.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedMegaSun 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedMegaSun 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedMegaSun.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedMegaSun.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/6SidedMegaSun.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/AmbienceExposure 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/AmbienceExposure 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/AmbienceExposure.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/AmbienceExposure.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/AmbienceExposure.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CasualDay 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CasualDay 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CasualDay.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CasualDay.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CasualDay.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CloudedSunGlow 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CloudedSunGlow 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CloudedSunGlow.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CloudedSunGlow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CloudedSunGlow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Cloudymorning 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Cloudymorning 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Cloudymorning.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Cloudymorning.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Cloudymorning.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CoriolisNight4k 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CoriolisNight4k 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CoriolisNight4k.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CoriolisNight4k.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CoriolisNight4k.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CosmicCoolCloud 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CosmicCoolCloud 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CosmicCoolCloud.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CosmicCoolCloud.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/CosmicCoolCloud.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DarkStorm 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DarkStorm 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DarkStorm.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DarkStorm.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DarkStorm.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DayInTheClouds 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DayInTheClouds 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DayInTheClouds.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DayInTheClouds.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/DayInTheClouds.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/AmbienceExposure.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/AmbienceExposure.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/AmbienceExposure.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CasualDay.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CasualDay.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CasualDay.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CloudyMorning.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CloudyMorning.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CloudyMorning.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CosmicCoolCloud.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CosmicCoolCloud.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/CosmicCoolCloud.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DarkStorm.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DarkStorm.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DarkStorm.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DayInTheClouds.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DayInTheClouds.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/DayInTheClouds.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/Daylightfreebiedemo.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/Daylightfreebiedemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/Daylightfreebiedemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/HighFantasy.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/HighFantasy.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/HighFantasy.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/MidNightFreebieDemo.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/MidNightFreebieDemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/MidNightFreebieDemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/PlanetaryFreebie.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/PlanetaryFreebie.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/PlanetaryFreebie.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/2_10 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/2_10 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/2_10.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/2_10.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/2_10.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/4_10 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/4_10 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/4_10.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/4_10.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/4_10.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/6_10 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/6_10 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/6_10.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/6_10.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/6_10.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/8_10 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/8_10 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/8_10.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/8_10.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/8_10.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/Full 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/Full 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/Full.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/Full.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SceneObjects/Full.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SkyhighFreebieDemo.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SkyhighFreebieDemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SkyhighFreebieDemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SundownFreebieDemo.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SundownFreebieDemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SundownFreebieDemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SunlessFreebieDemo.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SunlessFreebieDemo.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/SunlessFreebieDemo.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnEarthlyRed.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnEarthlyRed.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnEarthlyRed.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnderTheSea.unity 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnderTheSea.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/ExampleScenes/UnderTheSea.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FluffballDay 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FluffballDay 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FluffballDay.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FluffballDay.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FluffballDay.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/AmbienceExposure4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/AmbienceExposure4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/AmbienceExposure4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CasualDay4K.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CasualDay4K.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CasualDay4K.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CloudedSunGlow4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CloudedSunGlow4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CloudedSunGlow4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CoriolisNight4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CoriolisNight4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CoriolisNight4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBack.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBack.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBack.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudFront.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudFront.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudFront.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudRight.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudRight.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudRight.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudTop.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudTop.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/CosmicCoolCloudTop.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DayInTheClouds4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DayInTheClouds4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/DayInTheClouds4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBack.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBack.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBack.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBottom.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBottom.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayBottom.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayFront.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayFront.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayFront.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayLeft.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayLeft.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayLeft.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayRight.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayRight.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayRight.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayTop.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayTop.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/FluffballDayTop.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSun4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSun4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSun4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBack.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBack.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBack.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBottom.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBottom.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunBottom.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunFront.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunFront.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunFront.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunLeft.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunLeft.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunLeft.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunRight.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunRight.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunRight.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunTop.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunTop.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/MegaSunTop.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SkyhighFluffycloudField4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SkyhighFluffycloudField4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SkyhighFluffycloudField4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SunlessCirruscover4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SunlessCirruscover4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/SunlessCirruscover4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnderTheSea4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnderTheSea4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnderTheSea4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnearthlyRed4k.hdr 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnearthlyRed4k.hdr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/FreebieHdri/UnearthlyRed4k.hdr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Hdri setup.txt 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Hdri setup.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/Hdri setup.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/HighFantasy 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/HighFantasy 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/HighFantasy.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/HighFantasy.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/HighFantasy.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/MegaSun 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/MegaSun 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/MegaSun.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/MegaSun.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/MegaSun.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/PlanetaryEarth 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/PlanetaryEarth 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/PlanetaryEarth.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/PlanetaryEarth.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/PlanetaryEarth.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SkyhighFluffycloudField 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SkyhighFluffycloudField 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SkyhighFluffycloudField.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SkyhighFluffycloudField.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SkyhighFluffycloudField.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SunlessCirruscover 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SunlessCirruscover 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SunlessCirruscover.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SunlessCirruscover.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/SunlessCirruscover.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnderTheSea4k 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnderTheSea4k 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnderTheSea4k.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnderTheSea4k.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnderTheSea4k.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnearthlyRed 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnearthlyRed 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnearthlyRed.mat 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnearthlyRed.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/SkySerie Freebie/UnearthlyRed.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/prefab/Cube.prefab 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/prefab/Cube.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Desertballoons_Kate&amp;Carina/prefab/Cube.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tina-Lisa/Game/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tina-Lisa/Game/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/levs_start/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/levs_start/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1psQC5gKSHyQKC9sO2ntVD6D7zz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6caa46-d011-4f29-9988-e64d77260e6f" name="Default Changelist" comment="" />
+      <created>1615969192135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615969192135</updated>
+      <workItem from="1615969197616" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
